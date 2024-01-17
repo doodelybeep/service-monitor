@@ -1,1 +1,3 @@
 # service-monitor
+
+This project involves the development of a PHP-based web script designed to monitor and report on the health and status of a web hosting server. The script performs various checks to ensure key components like Apache and the database server are operational. The tool is particularly useful for administrators needing a quick and straightforward way to monitor server health, diagnose potential issues, and ensure that essential services are running smoothly. Enhanced with security measures, the script ensures sensitive information is protected while offering an easy-to-use interface for server status verification. This solution is ideal for small to medium-sized server environments where streamlined and efficient monitoring is essential.
